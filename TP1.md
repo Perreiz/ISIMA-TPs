@@ -66,7 +66,7 @@ Enfin, aucune contrainte n'est imposé sur les choix des librairies à utilisé 
 
 L'utilisation de Maven est obligatoire. La version de Java est à votre discretion. La LTS la plus récente est la 21, mais la 11 reste encore la plus répandue.
 
-## 6 - Evaluation
+## 4 - Evaluation
 
 L'application à réaliser étant assez simple, la complétude sera évalué. Mais réaliser entièrement l'application ne sera pas suffisant puisque d'autres points seront évalués :
 
